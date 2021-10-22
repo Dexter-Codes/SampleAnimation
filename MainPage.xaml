@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="SampleAnimation.MainPage"
+             BackgroundColor="Black">
+    <AbsoluteLayout>
+ <Grid Padding="24,40"
+       AbsoluteLayout.LayoutBounds="1,1,1,1"
+       AbsoluteLayout.LayoutFlags="All"
+       >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="100" />
+        </Grid.RowDefinitions>
+
+        <Frame x:Name="pancake" 
+               HeightRequest="300" WidthRequest="200"
+               VerticalOptions="Center" HorizontalOptions="Center">
+            <!--<Frame.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="#8845b8"
+                          Offset="0.1" />
+                <GradientStop Color="#f52e33"
+                          Offset="1.0" />
+                </LinearGradientBrush>
+            </Frame.Background>-->
+          </Frame>
+
+        <Label Grid.Row="1" x:Name="status" Text="here i am" VerticalOptions="Center" HorizontalOptions="Center" HorizontalTextAlignment="Center" TextColor="White" />
+
+        <Button  Grid.Row="2" x:Name="StartAnimation" Text="Start/stop animation" Command="{Binding ClickBtnCommand}" VerticalOptions="Center" />
+    </Grid>
+        <ImageButton Source="heart" x:Name="floating"
+                     AbsoluteLayout.LayoutBounds="0.8,0.7,50,50" AbsoluteLayout.LayoutFlags="PositionProportional"
+                     Command="{Binding ClickBtnCommand}" />
+        </AbsoluteLayout>
+</ContentPage>

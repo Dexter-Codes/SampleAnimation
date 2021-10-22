@@ -1,0 +1,17 @@
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.csproj.AssemblyReference.cache
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.AssemblyInfoInputs.cache
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.AssemblyInfo.cs
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.csproj.CoreCompileInputs.cache
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/bin/Debug/netstandard2.0/SampleAnimation.deps.json
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/bin/Debug/netstandard2.0/SampleAnimation.dll
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/bin/Debug/netstandard2.0/ref/SampleAnimation.dll
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/bin/Debug/netstandard2.0/SampleAnimation.pdb
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.dll
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/ref/SampleAnimation.dll
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/SampleAnimation.pdb
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/PageAppearingAnimation.xaml.g.cs
+/Users/anirban/Desktop/XF_Samples/SampleAnimation/SampleAnimation/obj/Debug/netstandard2.0/Views/HBD.xaml.g.cs
